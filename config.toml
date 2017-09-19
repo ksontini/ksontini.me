@@ -1,15 +1,18 @@
 baseURL = "http://ksontini.me/"
 languageCode = "en-us"
-title = "My personal place"
+title = "/home/anis ~"
 theme = "hugo-theme-nix"
 [params]
   GithubID = "ksontini"
   Name = "Anis Ksontini"
+  TwitterID = "ksontini"
+  LinkedInID = "ksontini"
+  GoogleplusID = "+AnisKSONTINI"
   HeaderUsername = "anis"
   HeaderHostname = "ksontini.me"
   Email = "anis.ksontini@gmail.com"
   ProfilePicture = "https://pbs.twimg.com/profile_images/1741861820/wallpaper-632430_400x400.jpg"
-  About = "info_about_you"
+  About = "I'm web consultant, application developer, Talking e-tourism and  Open source lover and without hat hacker."
   nocomments = true
 [menu]
   [[menu.header]]
