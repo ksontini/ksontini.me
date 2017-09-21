@@ -26,3 +26,32 @@ BI dashboard in comunication with "Sage CRM"
 #### 2.2. Stack of project ###
 
 AngularJs, node.js, MongoDB, SQL Server.
+
+## 3. E-Health ##
+
+#### 3.1. Context of project ###
+
+I participated to build [My home touch](https://myhometouch.com/). The main subject of the project is heath care of older person.
+
+#### 3.2. Stack of project ###
+
+AngularJs, node.js, MongoDB.
+
+## 4. Document Manager System ##
+
+#### 4.1 Context of project ###
+
+I worked in the team of [Open Bee](https://openbee.fr). The first DMS of France.
+
+#### 4.2. Stack of project ###
+Angular, Symfony, Play, MongoDB, Mysql...
+
+## 5. E-Tourism ##
+
+#### 5.1 Context of project ###
+
+A B2B plateform, including a channel manager.
+
+#### 5.2. Stack of project ###
+
+Symfony, Fat Free, XML..
