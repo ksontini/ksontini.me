@@ -39,9 +39,11 @@ You can now add some content by executing this commande:
 this will create a file under content folder, as you name it. In this cas, it will be 'content/posts/hello-world.md'.
 
 
- Finally, to build your HTML version of your website execute:
+ if you want to build your HTML version of your website execute:
 
  `hugo server -wDs path/of/dev-folder -d path/of/prod-folder`
+
+ Finnaly just execute `hugo`. This will build your website inside public directory. Now you're ready :)
 
 
  That's it. Now you have a website. You can push the your username.github.io ot other hosting service.

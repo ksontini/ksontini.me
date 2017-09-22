@@ -1,4 +1,4 @@
-baseURL = "http://ksontini.me/"
+BaseURL = "http://ksontini.me/"
 languageCode = "en-us"
 title = "/home/anis ~"
 theme = "hugo-theme-nix"
