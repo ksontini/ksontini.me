@@ -14,6 +14,7 @@ Previously, served as:
 * Served as CTO at TUmalis.
 * Served as Project Manager for web and mobile projects at TUmalis.
 
+For more information, this is my [CV](http://ksontini.me/cv.pdf) and my [CV-fr](http://ksontini.me/CV-fr.pdf) 
 ### SKILLS ###
 ## Language ##
 * PHP
