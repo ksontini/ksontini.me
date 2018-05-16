@@ -23,4 +23,4 @@ theme = "hugo-theme-nix"
   [[menu.header]]
     name = "about-me"
     weight = 1
-    url = "/about-me"
+    url = "/about"

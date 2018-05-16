@@ -1,10 +1,5 @@
----
-title: About me
-slug: "about-me"
-date: 2018-05-16T17:49:11+01:00
----
++++ title = "About me" date = "2018-05-16" menu = "main" +++
 
-I'm talking PHP, Javascript, NodeJs, Python.
 ### EXPERIENCE ###
 Currently, serving as Tech. expert in e-tourism company.
 
